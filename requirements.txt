@@ -1,0 +1,5 @@
+faster-whisper
+ctranslate2
+srt
+yt-dlp
+tk
